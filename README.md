@@ -209,8 +209,8 @@ print(me.motto())
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
 | B.Tech Information Technology | School of Engineering, CUSAT | 2023 – 2027 | Pursuing |
-| Class XII (CBSE) | Jawahar Navodaya Vidyalaya | 2022 | — |
-| Class X (CBSE) | Jawahar Navodaya Vidyalaya | 2020 | — |
+| Class XII (CBSE) | Jawahar Navodaya Vidyalaya | 2022 | 84% |
+| Class X (CBSE) | Jawahar Navodaya Vidyalaya | 2020 | 90% |
 
 </div>
 
