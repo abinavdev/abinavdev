@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abinav%20Dev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abinavdev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Full-Stack%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 ```python
 class AbinavDev:
     def __init__(self):
-        self.name        = "Abinav Dev A D"
+        self.name        = "Abinavdev A D"
         self.location    = "Ernakulam, Kerala, India"
         self.degree      = "B.Tech Information Technology @ CUSAT (2023–2027)"
         self.email       = "abinavdevabinav@gmail.com"
